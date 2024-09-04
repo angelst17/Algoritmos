@@ -6,8 +6,8 @@ function calcularRaices(a, b, c) {
   }
   
   // Ejemplo de uso:
-  const a = 6;
-  const b = -19;
-  const c = 7;
+  const a = 1;
+  const b = 3;
+  const c = 2;
   const raices = calcularRaices(a, b, c);
   console.log(`Raíces: ${raices[0]} y ${raices[1]}`);
